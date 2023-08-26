@@ -60,4 +60,3 @@ This is the output shape of the python script.
 ![Draw_DeBruijnGraph_TestCase 2](https://github.com/Sarah-Hesham-2022/De-Bruijn-Graph-for-Genome-Assembly/assets/112272836/3ecad3a3-c544-4118-afa9-56985cef732a)
 
 ![Draw_DeBruijnGraph_TestCase 1](https://github.com/Sarah-Hesham-2022/De-Bruijn-Graph-for-Genome-Assembly/assets/112272836/dc59cecd-e1c3-4066-8a09-964c5a23ccc7)
-
