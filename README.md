@@ -49,7 +49,7 @@ Data Analysis for Genomics, De Bruijn Graph for Genome Assembly.
 
 ![24](https://github.com/Sarah-Hesham-2022/De-Bruijn-Graph-for-Genome-Assembly/assets/112272836/b7d3bc6d-9fba-4619-8674-7aa23e37c6a1)
 
-De Bruijn Graph for Genome Assembly, visualization with sequence label darwn, using networkx and matplotlib to visualize the graph. 
+De Bruijn Graph for Genome Assembly, visualization with sequence label drawn, using networkx and matplotlib libraries to visualize the graph. 
 
 This is the output shape of the python script.
 
